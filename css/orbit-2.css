@@ -18,6 +18,15 @@ body {
 h1, h2, h3, h4, h5, h6 {
   font-weight: 700;
 }
+img{
+  width: 150px;
+  height: 150px;
+  margin-right: 10px;
+}
+
+.profile{
+	border-radius:50%;
+}
 
 a {
   color: #35776d;
